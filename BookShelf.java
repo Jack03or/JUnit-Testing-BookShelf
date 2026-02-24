@@ -20,7 +20,7 @@ public class BookShelf {
 
     // Corrected: Return the size of the ArrayList
     public int getShelfSize() {
-        return bookList.size();  // Return the number of books in the ArrayList
+        return bookList.size();  // Return the number of books in the array
     }
 
     // Method to display the books (not used in testing)
@@ -33,4 +33,5 @@ public class BookShelf {
 }
 
 	
+
 
